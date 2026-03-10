@@ -18,23 +18,23 @@ The ESC is built around the **DRV8323** gate driver IC, making use of its 1x PWM
 
 ### 3D Renders
 
-![Top 3D view](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1b5981fe5e4784d4f2b0ee5b1a6dcda7e0f423bf_image.png)  
-![Bottom 3D view](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7a810ac6512c31312f6ddd808e0fd90367a3e9a3_image.png)
+![Top 3D view](Images/3D_Top.png)  
+![Bottom 3D view](Images/3D_Bottom.png)
 
 ### Electrical Schematic
 
-![Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ddac5715fec5595bad41269cdfbf382eb142a4cd_schematic.png)
+![Schematic](Images/Schematic.png)
 
 ### PCB Layout (4-Layer Stackup)
 
 - **Top Layer (Signals)**  
-  ![Top Layer](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9f8e1b4175542b33a1ba0a7470f9491c47891c17_top__sig_.png)
+  ![Top Layer](Images/Top%20(Sig).png)
 
 - **Second Layer (Ground Plane)**  
-  ![Second Layer](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7868285cecc9167cbf4e487c935e2ba2e2b22b5d_second__gnd_.png)
+  ![Second Layer](Images/Second%20(GND).png)
 
 - **Third Layer (Power / Signals)**  
-  ![Third Layer](https://hc-cdn.hel1.your-objectstorage.com/s/v3/45edf28f2726666a7836bc2db6545642fd9c70ab_third__pwr_sig_.png)
+  ![Third Layer](Images/Third%20(PWR_Sig).png)
 
 - **Bottom Layer (Signals)**  
-  ![Bottom Layer](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4a3391e93502b0d636ed5e2579460d9380708836_back__sig_.png)
+  ![Bottom Layer](Images/Back%20(Sig).png)
